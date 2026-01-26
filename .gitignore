@@ -19,6 +19,7 @@ venv/
 *.zip
 *.tar
 *.gz
+*.pt
 
 # IDE
 .vscode/
