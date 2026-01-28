@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=prueba
-Exec=/home/ciabd10/anaconda3/bin/anaconda-navigator
-Comment=
-Terminal=true
-PrefersNonDefaultGPU=true
-Icon=cinnamon-panel-launcher
-Type=Application

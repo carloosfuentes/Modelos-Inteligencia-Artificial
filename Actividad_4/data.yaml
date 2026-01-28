@@ -1,0 +1,8 @@
+# /home/ciabd10/Descargas/MIA/Actividad_4/data.yaml
+path: /home/ciabd10/Descargas/MIA/Actividad_4
+train: dataset/images/train
+val: dataset/images/val
+
+names:
+  0: Superthings
+  1: Playmobil
