@@ -24,3 +24,12 @@ venv/
 # IDE
 .vscode/
 .idea/
+
+# Borrar datasets
+dataset/
+train/
+test/
+valid/
+train_split/
+trial_images/
+.venv/
