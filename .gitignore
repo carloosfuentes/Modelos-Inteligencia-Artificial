@@ -33,3 +33,4 @@ valid/
 train_split/
 trial_images/
 .venv/
+runs/
