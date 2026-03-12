@@ -34,3 +34,10 @@ train_split/
 trial_images/
 .venv/
 runs/
+fotos/
+resultados_img/Actividad_7/resultado/*.mp4
+Actividad_8/resultados_video/*.mp4
+
+Actividad_7/resultado/*.mp4
+Actividad_8/resultados_video/*.mp4
+Actividad_9/*.mp4
