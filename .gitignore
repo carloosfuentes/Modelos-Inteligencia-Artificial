@@ -20,6 +20,8 @@ venv/
 *.tar
 *.gz
 *.pt
+*.mp3
+*.txt
 
 # IDE
 .vscode/
@@ -41,3 +43,9 @@ Actividad_8/resultados_video/*.mp4
 Actividad_7/resultado/*.mp4
 Actividad_8/resultados_video/*.mp4
 Actividad_9/*.mp4
+
+# Borrar NLTK
+nltk_data/
+
+# Ignorar .env con claves
+.env
