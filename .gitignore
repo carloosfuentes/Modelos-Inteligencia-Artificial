@@ -49,3 +49,6 @@ nltk_data/
 
 # Ignorar .env con claves
 .env
+
+# Ignorar archivo llamado .codex
+.codex
