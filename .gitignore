@@ -22,6 +22,7 @@ venv/
 *.pt
 *.mp3
 *.txt
+*.pdf
 
 # IDE
 .vscode/
