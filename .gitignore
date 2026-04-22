@@ -53,3 +53,6 @@ nltk_data/
 
 # Ignorar archivo llamado .codex
 .codex
+
+# Ignorar manual técnico
+manual_tecnico.pdf
